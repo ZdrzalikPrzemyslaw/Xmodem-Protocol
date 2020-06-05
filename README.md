@@ -1,6 +1,15 @@
 # Xmodem-Protocol
 Python implementation of the Xmodem Protocol
 
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required libraries.
+
+```bash
+pip install crc16 pyserial
+```
+
+
 ## Usage
 
 Run odbierz.py, or odbierz.bat if on windows, in order to receive a message from a transmiter.
