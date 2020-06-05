@@ -1,0 +1,1 @@
+python odbierz.py
