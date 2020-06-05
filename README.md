@@ -3,8 +3,9 @@ Python implementation of the Xmodem Protocol
 
 ## Usage
 
-Run odbierz.py, or odbierz.bat if on windows, in order to receive a message from a transmiter 
+Run odbierz.py, or odbierz.bat if on windows, in order to receive a message from a transmiter.
 In order for the program to work both odbierz.py and console_IO.py need to be present in the directory.
+
 Run wyslij.py, or wyslij.bat if on windows, in order to send a message to a receiver.
 In order for the program to work both wyslij.py and console_IO.py need to be present in the directory.
 
